@@ -5,15 +5,15 @@
   <a href="#">
     <img width="200"
     heigth="500"
-      alt="Home Screen"
-      src="https://github.com/Harley755/bottom_navigation_bar-flutter/tree/master/bottom_navigation_bar_with_pageview/assets/screenshots/Screenshot_1.png"
+      alt="Chat Screen"
+      src="https://github.com/Harley755/bottom_navigation_bar-flutter/blob/master/bottom_navigation_bar_with_pageview/assets/screenshots/Screenshot_1.png"
     />
   </a>
 
   <a href="#" >
     <img width="200"
     heigth="500"
-      alt="Notification Screen"
+      alt="Call Screen"
       src="https://github.com/Harley755/bottom_navigation_bar-flutter/blob/master/bottom_navigation_bar_with_pageview/assets/screenshots/Screenshot_2.png"
     />
   </a>
