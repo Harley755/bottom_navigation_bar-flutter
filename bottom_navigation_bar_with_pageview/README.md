@@ -1,8 +1,33 @@
-# bottom_navigation_bar_with_pageview
+# Bottom Navigation Bar with Page View
 
-A new Flutter project.
+<div>
+
+  <a href="#">
+    <img width="200"
+    heigth="500"
+      alt="Home Screen"
+      src="https://github.com/Harley755/bottom_navigation_bar-flutter/tree/master/bottom_navigation_bar_with_pageview/assets/screenshots/Screenshot_1.png"
+    />
+  </a>
+
+  <a href="#" >
+    <img width="200"
+    heigth="500"
+      alt="Notification Screen"
+      src="https://github.com/Harley755/bottom_navigation_bar-flutter/blob/master/bottom_navigation_bar_with_pageview/assets/screenshots/Screenshot_2.png"
+    />
+  </a>
+</div>
 
 ## Getting Started
+
+Run the following commands to start project configuration : 
+```
+git clone https://github.com/Harley755/bottom_navigation_bar-flutter.git
+cd bottom_navigation_bar_with_pageview
+flutter pub get
+flutter run
+```
 
 This project is a starting point for a Flutter application.
 
