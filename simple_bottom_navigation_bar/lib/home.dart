@@ -28,13 +28,9 @@ class _HomeState extends State<Home> {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Bottom Navigation Bar with PageView',
-      home: Scaffold(
-        body: page[currentIndex],
-        bottomNavigationBar: buildNavigationBar(),
-      ),
+    return Scaffold(
+      body: page[currentIndex],
+      bottomNavigationBar: buildNavigationBar(),
     );
   }
 
