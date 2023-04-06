@@ -1,6 +1,27 @@
-# simple_bottom_navigation_bar
 
-A new Flutter project.
+
+
+
+# Simple Bottom Navigation Bar
+
+<div>
+
+  <a href="#">
+    <img width="200"
+    heigth="500"
+      alt="Home Screen"
+      src="https://github.com/Harley755/bottom_navigation_bar-flutter/blob/master/simple_bottom_navigation_bar/assets/screenshots/simple_home.png"
+    />
+  </a>
+ 
+  <a href="#" >
+    <img width="200"
+    heigth="500"
+      alt="Detail Screen"
+      src="https://github.com/Harley755/bottom_navigation_bar-flutter/blob/master/simple_bottom_navigation_bar/assets/screenshots/simple_notification.png"
+    />
+  </a>
+</div>
 
 ## Getting Started
 
