@@ -25,6 +25,14 @@
 
 ## Getting Started
 
+Run the following commands to start project configuration : 
+```
+git clone https://github.com/Harley755/bottom_navigation_bar-flutter.git
+cd simple_bottom_navigation_bar
+flutter pub get
+flutter run
+```
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
