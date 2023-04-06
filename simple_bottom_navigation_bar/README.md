@@ -8,7 +8,7 @@
 
   <a href="#">
     <img width="500"
-    heigth="800"
+    heigth="500"
       alt="Home Screen"
       src="https://github.com/Harley755/bottom_navigation_bar-flutter/blob/master/simple_bottom_navigation_bar/assets/screenshots/simple_home.png"
     />
