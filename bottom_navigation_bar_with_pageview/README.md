@@ -24,6 +24,7 @@
 Run the following commands to start project configuration : 
 ```
 git clone https://github.com/Harley755/bottom_navigation_bar-flutter.git
+cd bottom_navigation_bar-flutter
 cd bottom_navigation_bar_with_pageview
 flutter pub get
 flutter run
