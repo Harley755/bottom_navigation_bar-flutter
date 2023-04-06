@@ -1,4 +1,4 @@
-# bottom_navigation_bar-flutter
+# Bottom Navigation Bar - flutter
 
 ## Getting Started
 
