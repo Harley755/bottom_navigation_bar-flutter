@@ -132,7 +132,7 @@ class _HomeState extends State<Home> {
                     minWidth: 70.0,
                     onPressed: () {
                       setState(() {
-                        currentScreen = const CallScreen();
+                        currentScreen = const ProfileScreen();
                         currentIndex = 3;
                       });
                     },
